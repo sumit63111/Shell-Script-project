@@ -1,5 +1,3 @@
-Here's an attractive README template for your GitHub repository:
-
 ---
 
 # Shell Script Projects
@@ -113,5 +111,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, please open an issue or contact me at sumit63111@gmail.com.
 
 ---
-
-Feel free to customize this template further to better suit your needs!
